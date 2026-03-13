@@ -1,0 +1,5 @@
+{
+  "name": "Goal Heist",
+  "description": "A sports prediction event platform where users select 16 games, choose a sacrifice, and aim for a 4x return. Includes admin management.",
+  "requestFramePermissions": []
+}
